@@ -52,7 +52,7 @@ function musics(){
         document.getElementById("profile").style.display="none";
         document.getElementById("music").style.display="none";
 
-
+       window.navigator.vibrate(200);
 
 
           }
